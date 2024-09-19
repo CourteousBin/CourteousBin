@@ -65,3 +65,7 @@ Backend:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CourteousBin&show_icons=true&theme=algolia" alt="CourteousBin's GitHub Stats"/>
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CourteousBin/CourteousBin/refs/heads/output/github-contribution-grid-snake.svg"/>
+</p>
