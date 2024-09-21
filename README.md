@@ -7,8 +7,9 @@
 
 ---
 
-### 🌱 I’m currently learning:
-- **TypeScript and Solidity**
+### 🌟 Job Inquiry:
+- ** 👨‍💻 Frontend Developer with a passion for Web3, seeking remote opportunities. Let's connect!  Wechat:eeaa987 **
+- ** 👨‍💻 前端开发者，对 Web3 充满热情，寻求远程工作机会。欢迎联系！ WX:eeaa987 **
 
 ### 🤝 Connect with me:
 <p align="left">
